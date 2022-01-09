@@ -22,6 +22,6 @@ int main()
 {
     vector<int> arr = { -1, 2, 1, -4 };
     int x = 1;
-    cout << solution(arr, x);
+    cout <<"SOLUTION: "<<solution(arr, x);
     return(0);
 }
